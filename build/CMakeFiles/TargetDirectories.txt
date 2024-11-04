@@ -1,0 +1,3 @@
+/home/pedroseven/DCC012/A01DCC012/build/CMakeFiles/hello.dir
+/home/pedroseven/DCC012/A01DCC012/build/CMakeFiles/edit_cache.dir
+/home/pedroseven/DCC012/A01DCC012/build/CMakeFiles/rebuild_cache.dir
